@@ -151,4 +151,10 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+           <name>Thiago Campos</name>
+           <email>thiago@gmail.com</email>
+        </developer>
+    </developers>
 </project>
